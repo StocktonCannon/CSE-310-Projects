@@ -12,8 +12,5 @@ This is my classic Hello World application which was designed to demonstrate the
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
-
-![Mountains pic](banner.jpg)
+* [MarkDown Guide](https://www.markdownguide.org/cheat-sheet/)
+* [Github Workshop](https://video.byui.edu/media/t/1_zyyx43ke)
